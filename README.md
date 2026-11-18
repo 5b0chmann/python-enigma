@@ -16,6 +16,8 @@ A simplified simulation of the historic Enigma cipher machine written in Python.
 
 ✅ Support for German umlauts (Ä → AE, Ö → OE, Ü → UE, ß → SS)
 
+Because every German encryption machine deserves proper umlaut support. 😄
+
 ---
 
 ## Project Structure
