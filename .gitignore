@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Präsentation
+Präsentation.pptx
+
+# Corel Draw
+Enigma.cdr
+
+# Bilder
+Enigma.jpg
+Enigma-logo.png
+Enigma_1.png
+Enigma_2.png
+
+# Ordner mit Bildern
+Bilder/
